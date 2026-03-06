@@ -1,0 +1,5 @@
+import time
+
+print("Start")
+time.sleep(5)
+print("End after 5 seconds")

@@ -1,0 +1,27 @@
+Programs (25)
+
+Hello World
+Print name & details
+Input two numbers → sum
+Calculator (basic)
+Swap numbers
+Square & cube
+Area & perimeter
+Temperature converter
+Even/Odd
+Positive/Negative
+Largest of 2
+Largest of 3
+Simple interest
+BMI calculator
+Unit converter
+Random number
+Guess number game
+ASCII value
+Power function
+OTP generator
+Currency converter
+Timer program
+Date formatter
+Password mask
+Number system convert
